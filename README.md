@@ -6,11 +6,10 @@
 
 ![zigagrcar's github stats](https://github-readme-stats-fast.vercel.app/api/streak?username=zigagrcar&theme=github_dark)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my homelab using docker
-- 🌱 I’m currently learning VueJS and Solidity
-- 👯 I’m looking to collaborate on NET5 projects
+- 👯 Available for remote work
+- 🌱 Mostly working with TypeScript and C#
+- 🤖 Open to collaborating on AI, Web3, and IoT projects
+- 🔭 Currently tinkering with my Docker-based homelab
 - 📫 How to reach me: [Twitter](https://twitter.com/zigagrcar)
 ---
 I've started programing in Javascript, learned object-oriented programing using C# and .NET, both I'm now using in my projects.  
