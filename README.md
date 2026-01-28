@@ -13,7 +13,8 @@ Open to remote work and collaboration.
 - 🌱 Strong experience with TypeScript and C# for web and backend systems
 - 🤖 Open to collaborating on interesting AI, Web3, and IoT projects
 - 🔭 Currently tinkering with my Docker-based homelab
-- 📫 How to reach me: [Twitter](https://twitter.com/zigagrcar)
+- 📫 How to reach me: <span>&#122;&#105;&#103;&#97;&#103;&#114;&#99;&#97;&#114;&#64;&#100;&#117;&#99;&#107;&#46;&#99;&#111;&#109;</span>
+
 ---
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
